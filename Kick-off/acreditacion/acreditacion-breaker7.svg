@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="334.97077"
+     inkscape:cx="249.36034"
      inkscape:cy="687.05695"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1215"
-     inkscape:window-height="1000"
-     inkscape:window-x="377"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:snap-global="false" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -170,33 +170,11 @@
        ry="5.7471819"
        inkscape:export-xdpi="54"
        inkscape:export-ydpi="54" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:11.62645721px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="325.84555"
-       y="234.22183"
-       id="text4158"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4160"
-         x="325.84555"
-         y="234.22183">Breaker 7</tspan></text>
     <image
        y="380.46869"
        x="387.75647"
        id="image5087"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXIAAAFyAQMAAADS6sNKAAAABlBMVEX///8AAABVwtN+AAAB/ElE
-QVR4nO2aS46EMAxEI3EAjsTVOVIfIJKnKbvyYTGzrlHVgibhkU1sxzbdmmVZwjqjdH/vMKy5z/Fc
-WuPzbl6Sr98v31u9hGE7ol3xzG2ceTkem43p3PYrYBR9WQN35qX5s9y6fPvkGub/B5/jbxS/x4O/
-7Me8Ag9tAfwI2sgv8d+8BB+lezGA7VIyL8lPnXVKt3T65+76vCHzYjx2fNRO5eAYHu/M27wg/wiD
-a3sJSXcuNMK7eUF+C9vzvE73f9bI8uoyL8wDyG0PntwwFPS74PmneV2epXJOg1qMIqoHZl6Qx2HM
-s7m2HQXyGCIpm5mZeSmefgyAlhF1St9nXxDzmjwjdjn9zMcyR7uneZjX4/mBqaygZfpdNRbmzAvz
-AEY8r7D9Mo813zavxz9iA4QF1EzUstp6d77Ma/GzLIYVlI1kZOfFvCB/cMdjza15aHciY13zUvxw
-5mumYuxiAmDl3M0r8q1C+WIUI0dDDMhDO8K8Jj/aWp/tqF5tZMvHzEvxDNuVcc3yubHGChqFeUF+
-il2Q5PNTxO7+5vX42cDMtsdaOYOvpqZ5Ub4GM2wzlMfSr571snk5vradL5W/x3B/PjUvzSNs0+kx
-t9TL6/luXpPvbGACYPo90zPzmjyU/r6IXyZmUDevyPN5fXuoP/DQKNpb5rV4y7JE9QPg5joGAX/Z
-MAAAAABJRU5ErkJggg==
-"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXIAAAFyAQMAAADS6sNKAAAABlBMVEX///8AAABVwtN+AAAB/ElE QVR4nO2aS46EMAxEI3EAjsTVOVIfIJKnKbvyYTGzrlHVgibhkU1sxzbdmmVZwjqjdH/vMKy5z/Fc WuPzbl6Sr98v31u9hGE7ol3xzG2ceTkem43p3PYrYBR9WQN35qX5s9y6fPvkGub/B5/jbxS/x4O/ 7Me8Ag9tAfwI2sgv8d+8BB+lezGA7VIyL8lPnXVKt3T65+76vCHzYjx2fNRO5eAYHu/M27wg/wiD a3sJSXcuNMK7eUF+C9vzvE73f9bI8uoyL8wDyG0PntwwFPS74PmneV2epXJOg1qMIqoHZl6Qx2HM s7m2HQXyGCIpm5mZeSmefgyAlhF1St9nXxDzmjwjdjn9zMcyR7uneZjX4/mBqaygZfpdNRbmzAvz AEY8r7D9Mo813zavxz9iA4QF1EzUstp6d77Ma/GzLIYVlI1kZOfFvCB/cMdjza15aHciY13zUvxw 5mumYuxiAmDl3M0r8q1C+WIUI0dDDMhDO8K8Jj/aWp/tqF5tZMvHzEvxDNuVcc3yubHGChqFeUF+ il2Q5PNTxO7+5vX42cDMtsdaOYOvpqZ5Ub4GM2wzlMfSr571snk5vradL5W/x3B/PjUvzSNs0+kx t9TL6/luXpPvbGACYPo90zPzmjyU/r6IXyZmUDevyPN5fXuoP/DQKNpb5rV4y7JE9QPg5joGAX/Z MAAAAABJRU5ErkJggg== "
        style="image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="63.418709"
